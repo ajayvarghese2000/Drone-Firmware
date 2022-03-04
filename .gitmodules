@@ -1,3 +1,6 @@
 [submodule "ai-cam"]
 	path = ai-cam
 	url = https://github.com/lboroWMEME-TeamProject/ai-cam
+[submodule "Team-CCC---Subsystem-Gieger-Counter"]
+	path = Team-CCC---Subsystem-Gieger-Counter
+	url = https://github.com/lboroWMEME-TeamProject/Team-CCC---Subsystem-Gieger-Counter
