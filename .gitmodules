@@ -3,7 +3,7 @@
 	url = https://github.com/lboroWMEME-TeamProject/ai-cam
 [submodule "Team-CCC---Subsystem-Gieger-Counter"]
 	path = Team-CCC---Subsystem-Gieger-Counter
-	url = https://github.com/lboroWMEME-TeamProject/Team-CCC---Subsystem-Gieger-Counter
+	url = https://github.com/lboroWMEME-TeamProject/Geiger-Counter
 [submodule "Main-Pi"]
 	path = Main-Pi
 	url = https://github.com/lboroWMEME-TeamProject/Main-Pi
