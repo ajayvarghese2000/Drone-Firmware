@@ -33,13 +33,6 @@ The drone module is split as follows,
 
 ------------
 
-## Table of Contents
-
-- [Overview](#Overview)
-
-
-------------
-
 ## Overview
 
 **High Level Diagram:**
