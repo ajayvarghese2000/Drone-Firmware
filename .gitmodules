@@ -4,3 +4,9 @@
 [submodule "Main-Pi"]
 	path = Main-Pi
 	url = https://github.com/lboroWMEME-TeamProject/Main-Pi
+[submodule "Geiger-Counter"]
+	path = Geiger-Counter
+	url = https://github.com/lboroWMEME-TeamProject/Geiger-Counter
+[submodule "EnviroSensor"]
+	path = EnviroSensor
+	url = https://github.com/lboroWMEME-TeamProject/EnviroSensor
