@@ -22,7 +22,8 @@ The drone module is split as follows,
 
 ||Description|Link|
 |--|--|--|
-| **Main-Pi** | The code base that will run on the main raspberry pi that handles data accusation from the individual sensors, packaging and sending of that data to the remote server. |[GitHub](https://github.com/lboroWMEME-TeamProject/Main-Pi) |
+| **Main-Pi** | The code base that will run on the main Raspberry Pi that handles data accusation from the individual sensors, packaging and sending of that data to the remote server. |[GitHub](https://github.com/lboroWMEME-TeamProject/Main-Pi) |
+| **Geiger-Counter** | Code for Raspberry Pi Pico to get the sensor data from the Geiger counter  |[GitHub](https://github.com/lboroWMEME-TeamProject/Main-Pi) |
 
 
 </div>
