@@ -30,3 +30,36 @@ The drone module is split as follows,
 
 
 </div>
+
+------------
+
+## Table of Contents
+
+- [Overview](#Overview)
+
+
+------------
+
+## Overview
+
+**High Level Diagram:**
+
+<p align="center">
+	<img src="https://i.imgur.com/g5QJgSA.jpg" alt="drawing"/>
+</p>
+
+Each of the drone modules is connected to the central server via the use of websockets and streams the data to the server. 
+
+The server then echo's the data back to the connected clients depending on what drone the client is connected to via normal HTTPS request.
+
+There are a range on subsystems on the Drone Module itself each communicating and sending data to a central server running on a Raspberry Pi.
+
+**Drone Module Level Diagram:**
+
+<p align="center">
+	<img src="https://i.imgur.com/8I0nU0g.jpg" alt="drawing"/>
+</p>
+
+All of the sub systems are attached to the 'Main-Pi', the Main Pi is connected to the outside world via WiFi to send the data it collects from the individual subsystems.
+
+*To see the system breakdowns of the subsystems please visit their respective repos*
