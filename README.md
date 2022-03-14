@@ -15,3 +15,14 @@
 ------------
 
 # Drone Firmware
+This repo contains all the relevant repos, that hold the code for the individual subsystems that will be on the drone module.
+
+The drone module is split as follows,
+<div align="center">
+
+||Description|Link|
+|--|--|--|
+| **Main-Pi** | The code base that will run on the main raspberry pi that handles data accusation from the individual sensors, packaging and sending of that data to the remote server. |[GitHub](https://github.com/lboroWMEME-TeamProject/Main-Pi) |
+
+
+</div>
