@@ -24,7 +24,8 @@ The drone module is split as follows,
 |--|--|--|
 | **Main-Pi** | The code base that will run on the main Raspberry Pi that handles data accusation from the individual sensors, packaging and sending of that data to the remote server. |[GitHub](https://github.com/lboroWMEME-TeamProject/Main-Pi) |
 | **Geiger-Counter** | Code for Raspberry Pi Pico to get the sensor data from the Geiger counter  |[GitHub](https://github.com/lboroWMEME-TeamProject/Geiger-Counter) |
-| **EnviroSensor** | Code to operate and control the Enviro+ Sensor with a Raspberry Pi |[GitHub](https://github.com/lboroWMEME-TeamProject/EnviroSensor) |
+| **Enviro Sensor** | Code to operate and control the Enviro+ Sensor with a Raspberry Pi |[GitHub](https://github.com/lboroWMEME-TeamProject/EnviroSensor) |
+| **Particulates Sensor** | Code to run get PPM values from the air as a measure of air quality |GitHub|
 | **Ai-Cam** | Code to run the AI object detection on the raspberry Pi 4 and send its data to the Main Pi |[GitHub](https://github.com/lboroWMEME-TeamProject/ai-cam) |
 | **Thermal-Cam** | Code to run and get images from the thermal camera |GitHub|
 
