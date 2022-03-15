@@ -10,3 +10,6 @@
 [submodule "EnviroSensor"]
 	path = EnviroSensor
 	url = https://github.com/lboroWMEME-TeamProject/EnviroSensor
+[submodule "Thermal-Camera"]
+	path = Thermal-Camera
+	url = https://github.com/lboroWMEME-TeamProject/Thermal-Camera
