@@ -13,3 +13,6 @@
 [submodule "Thermal-Camera"]
 	path = Thermal-Camera
 	url = https://github.com/lboroWMEME-TeamProject/Thermal-Camera
+[submodule "Particulates-Sensor"]
+	path = Particulates-Sensor
+	url = https://github.com/lboroWMEME-TeamProject/Particulates-Sensor
